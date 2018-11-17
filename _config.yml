@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Brett Davis
   avatar: bio-photo.jpg
-  bio: "This is my sample Jekyll academic website."
+  bio: "This is my sample Jekyll academic website"
   email: davibr@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: 
