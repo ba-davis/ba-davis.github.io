@@ -14,4 +14,5 @@ Call to action, contact info.
 - [GitHub Pages](http://laderast.github.io)
 - Academia
 
+![this is an image](images/bio-photo.jpg)
 ![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
