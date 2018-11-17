@@ -13,3 +13,5 @@ Call to action, contact info.
 - Genomics
 - [GitHub Pages](http://laderast.github.io)
 - Academia
+
+![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
